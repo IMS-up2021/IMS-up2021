@@ -4,7 +4,7 @@
 </div>
 <br>
 
-Currently studing Informatics and Computing Engineering @ FEUP - Bachelor's degree 
+Studied Informatics and Computing Engineering @ FEUP - Bachelor's degree 
 <br>
 
 <div align="center">
